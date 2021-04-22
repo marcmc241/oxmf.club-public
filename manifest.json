@@ -1,0 +1,24 @@
+{
+  "short_name": "OXMF.club",
+  "name": "Ofertas Xiaomi Fans Club",
+  "description": "Las mejores ofertas de productos Xiaomi y todo su ecosistema. Todos los productos Xiaomi, Mijia, Redmi, Yeelight, Roidmi, 1 More, Mitu, Aqara... al mejor precio, recopilados a diario por miembros del staff de miui.es",
+  "lang": "es-ES",
+  "gcm_sender_id": "4657986321597645",
+  "icons": [
+    {
+      "src": "img/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://oxmf.club/index.php?pwa=1",
+  "background_color": "#235784",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#235784"
+}
