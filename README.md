@@ -11,6 +11,6 @@ The website is live but now it's unused (there are no more publications since th
 
 ![img4](https://github.com/marcmc241/oxmf.club-public/blob/main/readme_img/img4.png)
 
-The deals are created in the management platform also created by me https://github.com/marcmc241/generator-public and this website gets the data from its api.
+The deals are created in the management platform also created by me https://github.com/marcmc241/generator-public and this website gets the data from its api. This platform is a progressive web app (pwa).
 
 This is the public version of the platform, with all the sensible data removed.
