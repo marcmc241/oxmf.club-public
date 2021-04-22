@@ -7,6 +7,6 @@ It displays the lastest deals, with a search and filter. And for every deal all 
 
 The website is live but now it's unused (there are no more publications since the non-profit organization that used it is now dissolved). You can see it here (if it remains live): https://oxmf.club/.
 
-The deals are created in the management platform also created by me [generator link] and this website gets the data from its api.
+The deals are created in the management platform also created by me https://github.com/marcmc241/generator-public and this website gets the data from its api.
 
 This is the public version of the platform, with all the sensible data removed.
